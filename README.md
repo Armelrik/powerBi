@@ -60,5 +60,8 @@ Il nous a permis d’acquérir les compétences essentielles pour transformer de
 ![image](https://github.com/user-attachments/assets/26e4bd6c-34c8-458c-91d2-d01395a06076)
 
 Cours du site Open Classrooms: https://openclassrooms.com/fr/courses/7110891-realisez-des-dashboards-avec-power-bi/
+
 Documentation officielle de Microsoft : https://docs.microsoft.com/learn/paths/prepare-data-power-bi/?wt.mc_id=openclassrooms_learncontent_webpage_wwl
+
 Certification PL-300 de Microsoft : https://learn.microsoft.com/fr-fr/certifications/power-bi-data-analyst-associate/
+
